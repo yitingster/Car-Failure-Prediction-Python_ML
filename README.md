@@ -10,8 +10,6 @@ The dataset <b>failure.xslx</b> can be found in the respository.
 There is an interactive python plot that can be view by downloading the script and running it on Jupyter.  
 </p>
 
-There will be a second part to this project where a machine learning model would be build to predict car failure (in progress).
-
 <h1>Dataset</h1>
 
 |Field      |Description    |
